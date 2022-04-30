@@ -1,0 +1,25 @@
+git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+Statement of purpose and goals:
+    get some decent grade. make a rafting website that looks dope and functions. 
+
+Definition of audience: Noun, the assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting. 
+    likely professor birch. and/or graders. 
+
+Personas and scenarios - Who will use the site and how will they use it?
+    literally no one but I suppose hypothetically it would be out doorsy folk who like to raft, mostly. 
+
+A Style guide: 
+
+    Branding information - how to use the branding for the site correctly
+
+    Typography choices and justification
+
+    Color palette
+
+    Specific styling of elements on the site...ie headings, lists, paragraphs, forms, links, buttons, etc
+
+    A site map
+
+    Wireframes showing general layout and content for major pages
