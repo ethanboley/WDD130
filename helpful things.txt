@@ -23,3 +23,10 @@ A Style guide:
     A site map
 
     Wireframes showing general layout and content for major pages
+
+    Header: the top part of the page. 
+    main: main content of the page. 
+    nav: usually in the header, drop down menu for navigation links. 
+    section: 
+    article:
+    footer: bottom part of the page. 
