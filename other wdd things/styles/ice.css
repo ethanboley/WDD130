@@ -1,0 +1,38 @@
+body {
+    background-color: #fca6c9;
+}
+
+.pagejive {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.white {
+    color: white;
+}
+
+.coolfont {
+    font-family: Arial, sans-serif;
+}
+
+.smallfont {
+    font-size: 95%;
+}
+
+.pagejive ol {
+    font-weight: bold;
+    text-align: left;
+    line-height: 200%;
+    margin: 0 120px;
+    padding: 30px;
+}
+
+.pagejive img {
+    width: 200px;
+}
+
+.quotation {
+    font-size: 28px;
+}

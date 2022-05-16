@@ -1,0 +1,29 @@
+#small {
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+    margin: 0 300px;
+}
+
+#medium {
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    padding: 50px;
+    margin: 0 200px;
+}
+
+#big {
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    padding: 100px;
+    margin: 0 100px;
+}
+.lilboxes {
+    background-color: purple;
+    padding: 100px 100px;
+    margin: 0 100px;
+
+}
