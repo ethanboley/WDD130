@@ -39,7 +39,9 @@ body {
 img {
   display: block;
   margin: 0 auto;
+  width: 100%;
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
   color: var(--headline-color-on-white);
@@ -67,15 +69,18 @@ p {
   color: var(--paragraph-color);
   padding: 1em;
 }
+
 .colors {
   width: 100%;
   min-width: 350px;
   margin: 30px auto;
   text-align: center;
 }
+
 .colors th {
   background-color: #999;
 }
+
 .colors td{
   width: 25%;
   height: 3em;
@@ -84,12 +89,15 @@ p {
 .primary {
   background-color: var(--primary-color);
 }
+
 .secondary {
   background-color: var(--secondary-color);
 }
+
 .accent1 {
   background-color: var(--accent1-color);
 }
+
 .accent2{
   background-color: var(--accent2-color);
 }
@@ -105,6 +113,7 @@ nav {
   text-align: center;
   font-size: 1.2em;
 }
+
 nav  {
   list-style-type: none;
   display: flex;
@@ -115,11 +124,12 @@ nav a {
   min-width: 120px;
   text-decoration: none;
   padding: 10px;
-
 }
+
 nav a:link, nav a:visited {
   color: var(--nav-link-color);
 }
+
 nav a:hover {
   color: var(--nav-hover-link-color);
   background-color: var(--nav-hover-background-color);
@@ -136,6 +146,7 @@ nav a:hover {
     ". left left right right ."
     "page2 page2 . . page3 page3";
 }
+
 .sitemap > div {
 
   text-align: center;

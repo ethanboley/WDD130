@@ -228,6 +228,30 @@ nav {
   transform: scale(1.1);
 }
 
+/* styles for the rivers site page thingy */
+
+.rivers_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 100%;
+}
+
+.rivers {
+  width: auto;
+  margin: 10px;
+}
+
+.river_info {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.rivers_footer {
+  background-color: #A5BE00;
+  z-index: 10;
+}
+
 @media screen and (max-width: 900px) {
   #hero, .home-grid {
       display: block;
