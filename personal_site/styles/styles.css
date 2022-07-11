@@ -82,6 +82,32 @@ footer img {
   max-height: 600px;
 }
 
+.why_grid {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  background-color: var(--secondary-color);
+}
+
+.videos {
+  margin: auto;
+  grid-column: 2/3;
+  background-color: var(--secondary-color);
+  padding: auto;
+}
+
+.why_grid h1 {
+  grid-column: 1/4;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.text_box {
+  grid-column: 1/4;
+  background-image: linear-gradient(#F2E3BC, #96BBBB);
+  width: 100%;
+}
+
 /* that one assignment VVV */
 
 
